@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 
-# name: discourse-login-with-kakao
-# about: Enables login authentication via Login with Kakao
-# meta_topic_id: 117564
+# name: gorisa-plugin-kakao
+# about: gorisa plugin for Kakao login
+# meta_topic_id:
 # version: 0.0.1
-# authors: Alan Tan
-# url: https://github.com/discourse/discourse-login-with-kakao
+# authors: archmagece
+# url: https://gorisa.kr
 
 enabled_site_setting :enable_login_with_kakao
 
