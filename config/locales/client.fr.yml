@@ -7,7 +7,7 @@
 fr:
   js:
     login:
-      amazon:
+      kakao:
         name: "Amazon"
         title: "Se connecter avec Amazon"
         message: "Authentification avec la connexion à Amazon (assurez-vous qu'aucun bloqueur de fenêtres contextuelles n'est activé)"

@@ -7,7 +7,7 @@
 ar:
   js:
     login:
-      amazon:
+      kakao:
         name: "Amazon"
         title: "تسجيل الدخول من خلال Amazon"
         message: "المصادقة من خلال تسجيل الدخول باستخدام Amazon (تأكَّد من عدم تفعيل أدوات حظر النوافذ المنبثقة)"

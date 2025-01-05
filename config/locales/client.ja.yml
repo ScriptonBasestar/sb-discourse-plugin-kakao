@@ -7,7 +7,7 @@
 ja:
   js:
     login:
-      amazon:
+      kakao:
         name: "Amazon"
         title: "Amazon でログイン"
         message: "Amazon でログインを認証しています（ポップアップブロッカーが有効になっていないことを確認してください）"

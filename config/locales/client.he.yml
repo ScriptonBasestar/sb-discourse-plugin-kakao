@@ -7,7 +7,7 @@
 he:
   js:
     login:
-      amazon:
+      kakao:
         name: "Amazon"
         title: "כניסה עם אמזון"
         message: "אימות באמצעות כניסה עם Amazon (נא לוודא שחוסמי חלונות קופצים אינם מופעלים)"

@@ -7,7 +7,7 @@
 ru:
   js:
     login:
-      amazon:
+      kakao:
         name: "Amazon"
         title: "Вход через Amazon"
         message: "Аутентификация с помощью входа через Amazon (блокировщики всплывающих окон должны быть отключены)"

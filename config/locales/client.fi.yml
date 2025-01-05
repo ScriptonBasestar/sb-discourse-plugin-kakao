@@ -7,7 +7,7 @@
 fi:
   js:
     login:
-      amazon:
+      kakao:
         name: "Amazon"
         title: "Kirjaudu sisään Amazon-tilillä"
         message: "Todennus Login with Amazonilla (varmista, että ponnahdusikkunoiden esto ei ole käytössä)"

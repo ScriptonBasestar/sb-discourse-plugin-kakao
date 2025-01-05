@@ -7,7 +7,7 @@
 it:
   js:
     login:
-      amazon:
+      kakao:
         name: "Amazon"
         title: "Accedi con Amazon"
         message: "Autenticazione con Login with Amazon (assicurati che i blocchi di popup non siano abilitati)"

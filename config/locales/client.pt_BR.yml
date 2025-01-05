@@ -7,7 +7,7 @@
 pt_BR:
   js:
     login:
-      amazon:
+      kakao:
         name: "Amazon"
         title: "Entrar com a Amazon"
         message: "Autenticaçao com login da Amazon (verifique se bloqueadores de pop-up não estão ativos)"

@@ -7,6 +7,6 @@
 fa_IR:
   js:
     login:
-      amazon:
+      kakao:
         name: "آمازون"
         title: "ورود با آمازون"
