@@ -2,7 +2,7 @@
 
 # This patch was merged into upstream (in 2019) but a new gem hasn’t been
 # released yet.
-module DiscourseLoginWithAmazon
+module DiscourseLoginWithKakao
   module OmniAuthStrategyExtension
     extend ActiveSupport::Concern
 
@@ -12,4 +12,4 @@ module DiscourseLoginWithAmazon
     end
   end
 end
-OmniAuth::Strategies::Amazon.prepend(DiscourseLoginWithAmazon::OmniAuthStrategyExtension)
+OmniAuth::Strategies::Kakao.prepend(DiscourseLoginWithKakao::OmniAuthStrategyExtension)

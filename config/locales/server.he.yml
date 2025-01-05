@@ -6,10 +6,10 @@
 
 he:
   site_settings:
-    enable_login_with_kakao: "הפעלת כניסה עם אימות מול Amazon, דורש את `login with kakao client id` ואת `login with kakao client secret`."
-    login_with_kakao_client_id: "כניסה עם מזהה לקוח של Amazon"
-    login_with_kakao_client_secret: "כניסה עם סוד לקוח של Amazon"
-    login_with_kakao_scope: "כניסה עם scopes של OAuth2 של Amazon (מופרדים ברווחים)"
+    enable_login_with_kakao: "הפעלת כניסה עם אימות מול Kakao, דורש את `login with kakao client id` ואת `login with kakao client secret`."
+    login_with_kakao_client_id: "כניסה עם מזהה לקוח של Kakao"
+    login_with_kakao_client_secret: "כניסה עם סוד לקוח של Kakao"
+    login_with_kakao_scope: "כניסה עם scopes של OAuth2 של Kakao (מופרדים ברווחים)"
     login_with_kakao_overrides_email: "דורס את כתובת הדוא״ל בחשבון המשתמש ב־Discourse."
     errors:
       login_with_kakao_client_id_is_blank: "עליך להגדיר את ‚login with kakao client id’ בטרם הפעלת ההגדרה הזאת."

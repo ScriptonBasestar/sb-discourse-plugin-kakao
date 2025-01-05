@@ -2,6 +2,6 @@ en:
   js:
     login:
       kakao:
-        name: "Amazon"
-        title: "Login with Amazon"
-        message: "Authenticating with Login with Amazon (make sure pop up blockers are not enabled)"
+        name: "Kakao"
+        title: "Login with Kakao"
+        message: "Authenticating with Login with Kakao (make sure pop up blockers are not enabled)"

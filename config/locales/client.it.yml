@@ -8,6 +8,6 @@ it:
   js:
     login:
       kakao:
-        name: "Amazon"
-        title: "Accedi con Amazon"
-        message: "Autenticazione con Login with Amazon (assicurati che i blocchi di popup non siano abilitati)"
+        name: "Kakao"
+        title: "Accedi con Kakao"
+        message: "Autenticazione con Login with Kakao (assicurati che i blocchi di popup non siano abilitati)"

@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-class Auth::LoginWithAmazonAuthenticator < ::Auth::ManagedAuthenticator
+class Auth::LoginWithKakaoAuthenticator < ::Auth::ManagedAuthenticator
   def name
     "kakao"
   end

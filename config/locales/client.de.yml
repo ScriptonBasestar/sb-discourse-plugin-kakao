@@ -8,6 +8,6 @@ de:
   js:
     login:
       kakao:
-        name: "Amazon"
-        title: "Mit Amazon anmelden"
-        message: "Authentifizierung über „Anmelden mit Amazon“ (stelle sicher, dass Pop-up-Blocker nicht aktiviert sind)"
+        name: "Kakao"
+        title: "Mit Kakao anmelden"
+        message: "Authentifizierung über „Anmelden mit Kakao“ (stelle sicher, dass Pop-up-Blocker nicht aktiviert sind)"

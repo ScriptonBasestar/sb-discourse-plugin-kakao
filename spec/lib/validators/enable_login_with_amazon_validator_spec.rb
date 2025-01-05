@@ -2,7 +2,7 @@
 
 require "rails_helper"
 
-RSpec.describe EnableLoginWithAmazonValidator do
+RSpec.describe EnableLoginWithKakaoValidator do
   subject(:validator) { described_class.new }
 
   describe "#valid_value?" do

@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-class EnableLoginWithAmazonValidator
+class EnableLoginWithKakaoValidator
   def initialize(opts = {})
     @opts = opts
   end

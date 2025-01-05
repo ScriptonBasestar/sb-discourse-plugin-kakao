@@ -1,7 +1,7 @@
 plugins:
   enable_login_with_kakao:
     default: false
-    validator: "EnableLoginWithAmazonValidator"
+    validator: "EnableLoginWithKakaoValidator"
   login_with_kakao_client_id:
     default: ""
     secret: true

@@ -8,6 +8,6 @@ nl:
   js:
     login:
       kakao:
-        name: "Amazon"
-        title: "Aanmelden met Amazon"
-        message: "Verificatie met Aanmelden met Amazon (zorg dat pop-upblokkeringen niet zijn ingeschakeld)"
+        name: "Kakao"
+        title: "Aanmelden met Kakao"
+        message: "Verificatie met Aanmelden met Kakao (zorg dat pop-upblokkeringen niet zijn ingeschakeld)"

@@ -6,10 +6,10 @@
 
 sv:
   site_settings:
-    enable_login_with_kakao: "Aktivera inloggning genom Amazon-autentisering, kräver `login with kakao client id` och `login with kakao client secret`."
-    login_with_kakao_client_id: "Logga in med Amazons klient-ID"
-    login_with_kakao_client_secret: "Logga in med Amazons klienthemlighet"
-    login_with_kakao_scope: "Logga in med Amazon OAuth2 scopes (mellanslag separerat)"
+    enable_login_with_kakao: "Aktivera inloggning genom Kakao-autentisering, kräver `login with kakao client id` och `login with kakao client secret`."
+    login_with_kakao_client_id: "Logga in med Kakaos klient-ID"
+    login_with_kakao_client_secret: "Logga in med Kakaos klienthemlighet"
+    login_with_kakao_scope: "Logga in med Kakao OAuth2 scopes (mellanslag separerat)"
     login_with_kakao_overrides_email: "Åsidosätter e-postadressen för användarkontot i Discourse."
     errors:
       login_with_kakao_client_id_is_blank: "Du måste ställa in 'login with kakao client id' innan du aktiverar den här inställningen."

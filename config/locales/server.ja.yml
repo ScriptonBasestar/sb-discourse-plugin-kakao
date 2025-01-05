@@ -6,10 +6,10 @@
 
 ja:
   site_settings:
-    enable_login_with_kakao: "「Amazon でログイン」認証を有効にします。 `login with kakao client id` と `login with kakao client secret` が必要です。"
-    login_with_kakao_client_id: "「Amazon でログイン」クライアント ID"
-    login_with_kakao_client_secret: "「Amazon でログイン」クライアントシークレット"
-    login_with_kakao_scope: "「Amazon でログイン」OAuth2 スコープ（スペース区切り）"
+    enable_login_with_kakao: "「Kakao でログイン」認証を有効にします。 `login with kakao client id` と `login with kakao client secret` が必要です。"
+    login_with_kakao_client_id: "「Kakao でログイン」クライアント ID"
+    login_with_kakao_client_secret: "「Kakao でログイン」クライアントシークレット"
+    login_with_kakao_scope: "「Kakao でログイン」OAuth2 スコープ（スペース区切り）"
     login_with_kakao_overrides_email: "Discourse ユーザーアカウントのメールアドレスを上書きします。"
     errors:
       login_with_kakao_client_id_is_blank: "この設定を有効にする前に、'login with kakao client id' を設定する必要があります。"

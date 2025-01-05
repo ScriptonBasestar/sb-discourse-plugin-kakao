@@ -6,10 +6,10 @@
 
 de:
   site_settings:
-    enable_login_with_kakao: "Authentifizierung über „Anmelden mit Amazon“ aktivieren, erfordert `login with kakao client id` und `login with kakao client secret`."
-    login_with_kakao_client_id: "Client-ID für „Anmelden mit Amazon“"
-    login_with_kakao_client_secret: "Client-Geheimnis für „Anmelden mit Amazon“"
-    login_with_kakao_scope: "OAuth2-Bereiche für „Anmelden mit Amazon“ (durch Leerzeichen getrennt)"
+    enable_login_with_kakao: "Authentifizierung über „Anmelden mit Kakao“ aktivieren, erfordert `login with kakao client id` und `login with kakao client secret`."
+    login_with_kakao_client_id: "Client-ID für „Anmelden mit Kakao“"
+    login_with_kakao_client_secret: "Client-Geheimnis für „Anmelden mit Kakao“"
+    login_with_kakao_scope: "OAuth2-Bereiche für „Anmelden mit Kakao“ (durch Leerzeichen getrennt)"
     login_with_kakao_overrides_email: "Überschreibt die E-Mail-Adresse im Discourse-Benutzerkonto."
     errors:
       login_with_kakao_client_id_is_blank: "Bevor du diese Einstellung aktivierst, musst du „login with kakao client id“ festlegen."

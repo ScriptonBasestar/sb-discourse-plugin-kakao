@@ -6,10 +6,10 @@
 
 fi:
   site_settings:
-    enable_login_with_kakao: "Ota käyttöön Login with Amazon -todennus, \"login with kakao client id\" ja \"login with kakao client secret\" vaaditaan."
-    login_with_kakao_client_id: "Login with Amazon -asiakastunnus"
-    login_with_kakao_client_secret: "Login with Amazonin asiakkaan salatunnus"
-    login_with_kakao_scope: "Login with Amazonin OAuth2-alueet (välilyönnillä erotettuna)"
+    enable_login_with_kakao: "Ota käyttöön Login with Kakao -todennus, \"login with kakao client id\" ja \"login with kakao client secret\" vaaditaan."
+    login_with_kakao_client_id: "Login with Kakao -asiakastunnus"
+    login_with_kakao_client_secret: "Login with Kakaoin asiakkaan salatunnus"
+    login_with_kakao_scope: "Login with Kakaoin OAuth2-alueet (välilyönnillä erotettuna)"
     login_with_kakao_overrides_email: "Ohittaa Discourse-käyttäjätilin sähköpostiosoitteen."
     errors:
       login_with_kakao_client_id_is_blank: "Sinun täytyy asettaa \"login with kakao client id\" ennen kuin otat tämän asetuksen käyttöön."

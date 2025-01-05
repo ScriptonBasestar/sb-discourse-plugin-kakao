@@ -8,6 +8,6 @@ ja:
   js:
     login:
       kakao:
-        name: "Amazon"
-        title: "Amazon でログイン"
-        message: "Amazon でログインを認証しています（ポップアップブロッカーが有効になっていないことを確認してください）"
+        name: "Kakao"
+        title: "Kakao でログイン"
+        message: "Kakao でログインを認証しています（ポップアップブロッカーが有効になっていないことを確認してください）"

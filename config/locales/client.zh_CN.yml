@@ -8,6 +8,6 @@ zh_CN:
   js:
     login:
       kakao:
-        name: "Amazon"
-        title: "使用 Amazon 登录"
-        message: "使用“使用 Amazon 登录”进行身份验证（确保未启用弹出窗口阻止程序）"
+        name: "Kakao"
+        title: "使用 Kakao 登录"
+        message: "使用“使用 Kakao 登录”进行身份验证（确保未启用弹出窗口阻止程序）"

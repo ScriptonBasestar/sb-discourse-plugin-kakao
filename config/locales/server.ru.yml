@@ -6,10 +6,10 @@
 
 ru:
   site_settings:
-    enable_login_with_kakao: "Включите аутентификацию входа через Amazon, требуется «Вход с ID клиента Amazon» и «Вход с ключом клиента Amazon»."
-    login_with_kakao_client_id: "Вход с ID клиента Amazon"
-    login_with_kakao_client_secret: "Вход с ключом клиента Amazon"
-    login_with_kakao_scope: "Вход с помощью Amazon OAuth2 (через пробел)"
+    enable_login_with_kakao: "Включите аутентификацию входа через Kakao, требуется «Вход с ID клиента Kakao» и «Вход с ключом клиента Kakao»."
+    login_with_kakao_client_id: "Вход с ID клиента Kakao"
+    login_with_kakao_client_secret: "Вход с ключом клиента Kakao"
+    login_with_kakao_scope: "Вход с помощью Kakao OAuth2 (через пробел)"
     login_with_kakao_overrides_email: "Переопределяет адрес электронной почты в аккаунте пользователя Discourse."
     errors:
       login_with_kakao_client_id_is_blank: "Вы должны установить «Вход с ID клиента kakao» перед включением этой настройки."

@@ -6,10 +6,10 @@
 
 ar:
   site_settings:
-    enable_login_with_kakao: "تفعيل المصادقة من خلال تسجيل الدخول باستخدام Amazon، يتطلَّب `login with kakao client id` و`login with kakao client secret`."
-    login_with_kakao_client_id: "تسجيل الدخول باستخدام معرِّف عميل Amazon"
-    login_with_kakao_client_secret: "تسجيل الدخول باستخدام سر عميل Amazon"
-    login_with_kakao_scope: "تسجيل الدخول باستخدام نطاقات Amazon OAuth2 (مفصولة بمسافة)"
+    enable_login_with_kakao: "تفعيل المصادقة من خلال تسجيل الدخول باستخدام Kakao، يتطلَّب `login with kakao client id` و`login with kakao client secret`."
+    login_with_kakao_client_id: "تسجيل الدخول باستخدام معرِّف عميل Kakao"
+    login_with_kakao_client_secret: "تسجيل الدخول باستخدام سر عميل Kakao"
+    login_with_kakao_scope: "تسجيل الدخول باستخدام نطاقات Kakao OAuth2 (مفصولة بمسافة)"
     login_with_kakao_overrides_email: "يستبدل عنوان البريد الإلكتروني في حساب مستخدم Discourse."
     errors:
       login_with_kakao_client_id_is_blank: "يجب عليك ضبط 'login with kakao client id' قبل تفعيل هذا الإعداد."

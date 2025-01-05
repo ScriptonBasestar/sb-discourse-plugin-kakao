@@ -8,6 +8,6 @@ sv:
   js:
     login:
       kakao:
-        name: "Amazon"
-        title: "Logga in med Amazon"
-        message: "Autentisering av inloggning genom Amazon (se till att popup -blockerare inte är aktiverade)"
+        name: "Kakao"
+        title: "Logga in med Kakao"
+        message: "Autentisering av inloggning genom Kakao (se till att popup -blockerare inte är aktiverade)"

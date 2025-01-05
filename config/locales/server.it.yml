@@ -6,10 +6,10 @@
 
 it:
   site_settings:
-    enable_login_with_kakao: "Abilita l'autenticazione con Login with Amazon; richiede l'impostazione dei parametri `login with kakao client id` e `login with kakao client secret`."
-    login_with_kakao_client_id: "ID del client Login with Amazon"
-    login_with_kakao_client_secret: "Segreto del client Login with Amazon"
-    login_with_kakao_scope: "Ambiti di Login with Amazon OAuth2 (separati da spazi)"
+    enable_login_with_kakao: "Abilita l'autenticazione con Login with Kakao; richiede l'impostazione dei parametri `login with kakao client id` e `login with kakao client secret`."
+    login_with_kakao_client_id: "ID del client Login with Kakao"
+    login_with_kakao_client_secret: "Segreto del client Login with Kakao"
+    login_with_kakao_scope: "Ambiti di Login with Kakao OAuth2 (separati da spazi)"
     login_with_kakao_overrides_email: "Sostituisce l'indirizzo e-mail nell'account dell'utente Discourse."
     errors:
       login_with_kakao_client_id_is_blank: "Prima di abilitare questa impostazione, devi impostare l'opzione 'login with kakao client id'."

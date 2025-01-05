@@ -6,11 +6,11 @@
 
 zh_CN:
   site_settings:
-    enable_login_with_kakao: "启用“使用 Amazon 登录”身份验证，需要 `login with kakao client id` 和 `login with kakao client secret`。"
-    login_with_kakao_client_id: "使用 Amazon 客户端 ID 登录"
-    login_with_kakao_client_secret: "使用 Amazon 客户端密钥登录"
-    login_with_kakao_scope: "使用 Amazon OAuth2 范围登录（空格分隔）"
+    enable_login_with_kakao: "启用“使用 Kakao 登录”身份验证，需要 `login with kakao client id` 和 `login with kakao client secret`。"
+    login_with_kakao_client_id: "使用 Kakao 客户端 ID 登录"
+    login_with_kakao_client_secret: "使用 Kakao 客户端密钥登录"
+    login_with_kakao_scope: "使用 Kakao OAuth2 范围登录（空格分隔）"
     login_with_kakao_overrides_email: "覆盖 Discourse 用户帐户上的电子邮件地址。"
     errors:
-      login_with_kakao_client_id_is_blank: "在启用此设置之前，您必须设置“使用 Amazon 客户端 ID 登录”。"
-      login_with_kakao_client_secret_is_blank: "在启用此设置之前，您必须设置“使用 Amazon 客户端密钥登录”。"
+      login_with_kakao_client_id_is_blank: "在启用此设置之前，您必须设置“使用 Kakao 客户端 ID 登录”。"
+      login_with_kakao_client_secret_is_blank: "在启用此设置之前，您必须设置“使用 Kakao 客户端密钥登录”。"

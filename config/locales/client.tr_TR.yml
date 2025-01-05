@@ -8,6 +8,6 @@ tr_TR:
   js:
     login:
       kakao:
-        name: "Amazon"
-        title: "Amazon ile Giriş Yapın"
-        message: "Amazon ile Giriş Yapın ile kimlik doğrulanıyor (açılır pencere engelleyicilerinin etkin olmadığından emin olun)"
+        name: "Kakao"
+        title: "Kakao ile Giriş Yapın"
+        message: "Kakao ile Giriş Yapın ile kimlik doğrulanıyor (açılır pencere engelleyicilerinin etkin olmadığından emin olun)"

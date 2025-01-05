@@ -1,9 +1,9 @@
 en:
   site_settings:
-    enable_login_with_kakao: "Enable Login with Amazon authentication, requires `login with kakao client id` and `login with kakao client secret`."
-    login_with_kakao_client_id: "Login with Amazon client ID"
-    login_with_kakao_client_secret: "Login with Amazon client secret"
-    login_with_kakao_scope: "Login with Amazon OAuth2 scopes (space separated)"
+    enable_login_with_kakao: "Enable Login with Kakao authentication, requires `login with kakao client id` and `login with kakao client secret`."
+    login_with_kakao_client_id: "Login with Kakao client ID"
+    login_with_kakao_client_secret: "Login with Kakao client secret"
+    login_with_kakao_scope: "Login with Kakao OAuth2 scopes (space separated)"
     login_with_kakao_overrides_email: "Overrides the email address on the Discourse user account."
 
     errors:
