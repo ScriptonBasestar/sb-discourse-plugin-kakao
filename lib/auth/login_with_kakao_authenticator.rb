@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+
 class Auth::LoginWithKakaoAuthenticator < ::Auth::ManagedAuthenticator
   def name
     "kakao"
