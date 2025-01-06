@@ -9,7 +9,7 @@
 
 enabled_site_setting :enable_login_with_kakao
 
-gem "omniauth-kakao", "1.0.1"
+gem "sb-omniauth-kakao"
 
 register_svg_icon "fab-kakao"
 
