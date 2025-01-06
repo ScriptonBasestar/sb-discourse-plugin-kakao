@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 
-# name: gorisa-plugin-kakao
-# about: gorisa plugin for Kakao login
+# name: sb-discourse-kakao
+# about: discourse plugin for Kakao login and other features
 # meta_topic_id:
 # version: 0.0.1
 # authors: archmagece
-# url: https://gorisa.kr
+# url: https://github.com/scriptonbasestar/sb-discourse-kakao
 
 enabled_site_setting :enable_login_with_kakao
 
